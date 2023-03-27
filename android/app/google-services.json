@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954636541905",
+    "project_id": "quizapp-f3e70",
+    "storage_bucket": "quizapp-f3e70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954636541905:android:fc276ea5b30187ea588af0",
+        "android_client_info": {
+          "package_name": "com.example.fintechquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954636541905-5tq0pmjk682s881fhnrrdrva7j1en0vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs3FjeryQmorYDv04gor7PHSxkcBdK8Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954636541905-5tq0pmjk682s881fhnrrdrva7j1en0vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
