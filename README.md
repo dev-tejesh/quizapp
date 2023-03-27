@@ -1,16 +1,10 @@
-# fintechquizapp
+# quizapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The external packages used in this application are 
+1) Get - Getx package is used for state management within the application
+2) firebase_auth - Firebase auth is used for authentication of users
+3) flutter_easyloading - To show loading and toastbar, I have used flutter_easyloading
+4) cloud_firestore - This package is used to store the data in the firestore database
+5) audioplayers - audioplayers package helps to play the sounds I have used to play sound while the user attempting the quiz
+6) googlesignin - googlesignin is used to implement google sign in functionality in the application
+7) pinput - this package is used in the otp screen
